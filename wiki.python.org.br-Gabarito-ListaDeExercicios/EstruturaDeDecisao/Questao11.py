@@ -9,6 +9,7 @@ o salário antes do reajuste;
 o percentual de aumento aplicado;
 o valor do aumento;
 o novo salário, após o aumento.
+
 '''
 
 print("Digite seu salário atual:")
